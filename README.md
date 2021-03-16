@@ -39,8 +39,8 @@ A curated list of awesome surveys, books, theses and scholars working on Knowled
 
 # Books
 
-- Machine Knowledge - Creation and Curation of Comprehensive Knowledge Bases [[Gerhard Weikum, 2020]](https://arxiv.org/pdf/2009.11564.pdf)
-- Graph Representation Learning [[William L. Hamilton, 2020]](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+- Machine Knowledge - Creation and Curation of Comprehensive Knowledge Bases [[Weikum et al., 2020]](https://arxiv.org/pdf/2009.11564.pdf)
+- Graph Representation Learning [[Hamilton, 2020]](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 
 # PhD Theses
 
