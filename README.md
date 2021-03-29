@@ -78,6 +78,12 @@ A curated list of awesome surveys, books, theses and scholars working on Knowled
 - [KILT](https://github.com/facebookresearch/KILT)
 - [BLINK](https://github.com/facebookresearch/BLINK)
 
+# Courses
+
+- [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
+- [COMP 766 - Graph Representation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html)
+- [MPI - Advanced Topics in Knowledge Bases](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/ws1819/advanced-topics-in-knowledge-bases)
+- [CS953 Adv Top - Data Science for Knowledge Graphs and Text](https://www.cs.unh.edu/~dietz/teaching/ds/index.html)
 
 # Collections
 
