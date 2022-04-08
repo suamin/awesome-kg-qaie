@@ -54,8 +54,8 @@ A curated list of awesome surveys, books, theses and scholars working on Knowled
 - Using Knowledge Bases for Question Answering [[Yunshai Lan, 2020]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1261&context=etd_coll)
 - End-to-End Learning with Text & Knowledge Bases [[Bhuwan Dhingra, 2020]](https://www.cs.cmu.edu/~bdhingra/docs/bhuwan_dhingra_thesis.pdf)
 - Neural Interface for Web-Scale Knowledge [[Minjoon Seo, 2020]](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/45926/Seo_washington_0250E_21539.pdf?sequence=1&isAllowed=y)
-- Dai Quoc Nguyen (TBA)
-- Ivana Balažević (TBA)
+- Representation Learning for Graph-Structured Data [[Dai Quoc Nguyen, 2021]](https://au-east.erc.monash.edu.au/fpfiles/27643737/DAI_PHD_THESIS_Final.pdf)
+- Learning representations of entities and relations [[Ivana Balažević, 2021]](https://arxiv.org/ftp/arxiv/papers/2201/2201.13073.pdf)
 
 # Scholars
 
